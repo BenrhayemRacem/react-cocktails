@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,IACI,WAAY,CACZ,YACJ,CAEA,EACA,UAAY,CACR,iBACJ","file":"main.e00ac58a.chunk.css","sourcesContent":["img {\n    width: 200px;\n    height:200px;\n}\n\na{\ncolor: white;\n    margin-right: 10px;\n}"]}
